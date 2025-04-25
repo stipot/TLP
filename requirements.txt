@@ -1,0 +1,7 @@
+torch
+scikit-learn
+tqdm
+numpy
+pandas
+uuid
+torchvision
